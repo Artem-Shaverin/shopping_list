@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-# shopping_list
+# Shopping List App
 
-A new Flutter project.
+A simple and efficient mobile application developed with Flutter that helps users manage their shopping lists. Users can easily add new items, specify the name, quantity, and select a category for each item. The app allows users to delete items when they're no longer needed. All items are stored in Firebase, ensuring the list is saved and synchronized across devices. This app provides a user-friendly interface to organize and keep track of shopping items with ease.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# shopping_list
->>>>>>> 8d894fd440ca3a35e15343dd4f339b748ae0f8ab
+## Key Technologies
+- **Frontend**: Flutter, Dart
+- **Database**: Firebase
+- **Networking**: HTTP for API requests
+- **Icons**: Cupertino Icons for iOS-style icons
